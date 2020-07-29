@@ -10,5 +10,6 @@ Melon Playlist Continuation
 가상환경을 구축하지 않고 제작하였으므로 Anaconda Prompt에서의 작동은 확인되지 않았습니다.
 훈련 대상으로는 제공받은 train를 사용하였습니다.
 
+** 7/29일 추가 : 카카오 아레나 Test 데이터를 예측하여 올린 code와 본 깃허브에 업로드된 code는 제목만 다를 뿐 동일한 코드입니다. 
 
 
